@@ -1,1 +1,2 @@
-# LearnBug
+# LearnBugs
+Some Tutorials and Things to Do while Hunting Particular Vulnerability.
